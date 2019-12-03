@@ -11,8 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eoslime": "0.0.17",
+    "dotenv": "^8.2.0",
+    "eosjs-ecc": "^4.0.4",
+    "eoslime": "1.0.0",
     "riteway": "^6.1.0",
-    "tap-nirvana": "^1.1.0"
+    "tap-nirvana": "^1.1.0",
+    "update-dotenv": "^1.1.1"
   }
 }
